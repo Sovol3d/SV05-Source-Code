@@ -27,7 +27,7 @@ info@sovol3d.com
 # Join Sovol Community
 
 - Sovol Facebook page: https://www.facebook.com/sovol3d/
-- Sovol Youtube Channel: https://www.youtube.com/c/Sovol/videos
+- Sovol Youtube Channel: https://www.youtube.com/c/Sovol/videos
 - Sovol Offcial User Group: https://www.facebook.com/groups/sovol3d
 - Sovol Forum website: https://forum.sovol3d.com/
 
